@@ -1,2 +1,6 @@
 My file
+<<<<<<< HEAD
 Changes in main
+=======
+Changes in newbranch
+>>>>>>> newbranch
